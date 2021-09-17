@@ -10,6 +10,7 @@ A keylogger is a software application or piece of hardware that monitors and rec
 ## Limitations
 
 - Doesn't work on Linux target machine. 
+- If target presses ESC, script will stop and won't capture further.
 
 
   
